@@ -1,6 +1,7 @@
 #----------time-----------
 #Header header
-float64 time
+# float64 time
+builtin_interfaces/Time stamp
 #-----------cpu-----------
 #cpu core
 #psutil.cpu_count
